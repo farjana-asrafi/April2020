@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12169" started-at="2020-09-17T21:01:54 CDT" finished-at="2020-09-17T21:02:06 CDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12169" started-at="2020-09-17T21:01:54 CDT" finished-at="2020-09-17T21:02:06 CDT">
+      <class name="testTestNG.TestTestNG">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:testTestNG.TestTestNG@614ddd49]" name="openBrowser" is-config="true" duration-ms="6642" started-at="2020-09-17T21:01:54 CDT" finished-at="2020-09-17T21:02:00 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="test()[pri:0, instance:testTestNG.TestTestNG@614ddd49]" name="test" duration-ms="2224" started-at="2020-09-17T21:02:00 CDT" finished-at="2020-09-17T21:02:03 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="close()[pri:0, instance:testTestNG.TestTestNG@614ddd49]" name="close" is-config="true" duration-ms="3259" started-at="2020-09-17T21:02:03 CDT" finished-at="2020-09-17T21:02:06 CDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testTestNG.TestTestNG -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
